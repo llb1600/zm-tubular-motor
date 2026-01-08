@@ -10,3 +10,10 @@ zigbeeManufacturer:
     manufacturer: _TZE200_68nvbio9
     model: TS0601
     deviceProfileName: zemismart-tubular-motor-battery
+
+zigbeeManufacturer:
+  - id: "_TZE284_6fopvb6v/TS0601"
+    deviceLabel: My Blind (Limit Enabled)
+    manufacturer: _TZE284_6fopvb6v
+    model: TS0601
+    deviceProfileName: zemismart-tubular-motor
